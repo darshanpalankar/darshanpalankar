@@ -51,21 +51,8 @@
 
 ## 🌐 Connect With Me
 
-<ul>
-  <li>
-    💼 LinkedIn:
-    <a href="https://www.linkedin.com/in/darshan-palankar-424959397" target="_blank">
-      darshan-palankar
-    </a>
-  </li>
-  <li>
-    📧 Email:
-    <a href="mailto:darshpalankar30@gmail.com" target="_blank">
-      darshpalankar30@gmail.com
-    </a>
-  </li>
-</ul>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/darshan-palankar-424959397)
+- 📧 [Email](mailto:darshpalankar30@gmail.com)
 
 ---
 
