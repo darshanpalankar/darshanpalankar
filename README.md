@@ -28,7 +28,15 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github.com/darshanpalankar/metrics/blob/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/darshanpalankar/metrics/main/github-metrics.svg" />
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshanpalankar/metrics/main/github-metrics.svg" />
 </p>
 
 ---
@@ -36,8 +44,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanpalankar&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=darshanpalankar&theme=tokyonight" />
 </p>
 
@@ -45,8 +51,21 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/darshan-palankar-424959397)
-- 📧 Email: (darshpalankar30@gmail.com)
+<ul>
+  <li>
+    💼 LinkedIn:
+    <a href="https://www.linkedin.com/in/darshan-palankar-424959397" target="_blank">
+      darshan-palankar
+    </a>
+  </li>
+  <li>
+    📧 Email:
+    <a href="mailto:darshpalankar30@gmail.com" target="_blank">
+      darshpalankar30@gmail.com
+    </a>
+  </li>
+</ul>
+
 
 ---
 
