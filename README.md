@@ -17,29 +17,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p>
-  <img src="[https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,vscode](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,vscode,pycharm,bash)" />
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darshanpalankar/metrics/main/github-metrics.svg" />
-</p>
-
----
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darshanpalankar/metrics/main/github-metrics.svg" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 
