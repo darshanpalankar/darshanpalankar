@@ -28,8 +28,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/darshan-palankar-424959397)
-- Instagram : (https://www.instagram.com/darsh.palankar?igsh=MW80MmxmZGpoMm0wcg==) 
+- LinkedIn  :
+- Instagram :  
 
 ---
 
