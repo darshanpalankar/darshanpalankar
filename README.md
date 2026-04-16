@@ -2,35 +2,46 @@
 
 <p align="center">
   💻 Computer Science Student <br>
-  🚀 Passionate about Programming & Cyber Security <br>
-  🌱 Currently learning Web Development & Networking
+  🚀 Enthusiast in Programming & Cyber Security <br>
+  🌱 Currently exploring Web Development and Networking
 </p>
 
 ---
 
-## 🔥 About Me
+## 🔍 About Me
 
-- 🎯 Focused on building real-world projects
-- 🛠️ Exploring Python, C++, and JavaScript
-- 📚 Learning ethical hacking & security tools
-- 💡 Always curious about how things work
+- 🎯 Passionate about building practical, real-world applications  
+- 🛠️ Skilled in Python, C++, and JavaScript  
+- 🔐 Actively learning Cyber Security and Ethical Hacking  
+- 📚 Continuously improving problem-solving and development skills  
+- 💡 Curious mindset with a strong interest in technology and systems  
 
 ---
 
+## 🧰 Tech Stack
 
-## 📈 GitHub Stats
+- **Languages:** Python, C++  
+- **Web:** HTML, CSS , JavaScript (Learning)  
+- **Database:** MySQL, SQLite3
+- **Tools & Concepts:** Git, GitHub, Networking Basics, Cyber Security Fundamentals  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=darshanpalankar&theme=tokyonight" />
-</p>
+---
+
+## 📈 Current Focus
+
+- 🌐 Developing web-based applications  
+- 🔐 Exploring security tools and ethical hacking techniques  
+- 📊 Strengthening Data Structures & Algorithms  
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn  :
-- Instagram :  
+- 💼 LinkedIn: *https://www.linkedin.com/in/darshan-palankar-424959397*  
+- 📸 Instagram: *https://www.instagram.com/darsh.palankar?igsh=MW80MmxmZGpoMm0wcg==*  
 
 ---
 
-⭐️ *Building. Learning. Improving every day.*
+<p align="center">
+  ⭐️ <i>Consistently learning, building, and striving for excellence.</i>
+</p>
